@@ -1,4 +1,4 @@
-### <h2>Приветствую тебя!!! Рада встрече. И да не будет ей конца!😉 Давай знакомиться!!!</h2>
+### <h2>Приветствую тебя!!! Давай знакомиться!!!😉</h2>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E041EE&width=435&lines=I'm+QA+Engeneer+(manual))](https://git.io/typing-svg)
 ![Header](https://github.com/victoria-bychkova/victoria-bychkova/blob/main/assets/gifntext-gif.gif)
 <details><summary>🎵 Включить музыку</summary>
